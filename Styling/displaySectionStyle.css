@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+body {
+    overflow: hidden;
+    background: black;
+    color: rgb(247, 247, 97);
+}
+
+canvas {
+    display: block;
+}
+
+.text-section{
+    position: absolute;
+    top: 15%;
+    left: 5%;
+}
+
+.birthday-text{
+    font-size: 2em;
+    font-family: dancing script;
+    text-align: center;
+    padding-top: 5rem;
+}
